@@ -19,7 +19,7 @@ git push origin main
 sudo apt install seahorse  
 secret-tool search server github.com  
 
-
+```python
 # coding=UTF-8
 from __future__ import absolute_import
 
